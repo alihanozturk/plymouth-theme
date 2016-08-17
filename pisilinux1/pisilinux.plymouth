@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=pisilinux
+Description=A theme that features a blank background with a logo.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/pisilinux
+ScriptFile=/usr/share/plymouth/themes/pisilinux/pisilinux.script
