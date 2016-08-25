@@ -4,7 +4,7 @@ nodist_theme_DATA = \
 
 dist_theme_DATA =                                                     \
                     pisilinux.script                                  \
-                    logo_blurred.png.png                              \
+                    logo_blurred.png                              \
                     logo.png
 
 
